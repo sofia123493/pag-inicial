@@ -1,0 +1,58 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Lexend:wght@100..900&family=Outfit:wght@100..900&display=swap');
+
+*{
+    font-family: "Lexend", sans-serif;
+    color: white;
+}
+
+
+body{
+    background-image: url(philip-oroni-8kpm32LzzCU-unsplash\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.genius{
+    position: relative;
+    left: 24px;
+    top: 3px;
+    transition: none;
+    cursor: move;
+}
+.login{
+    position: relative;
+    left: -426px;
+    top: -19px;
+    width: 127px;
+    transform: translate(1760px, 0px)
+}
+.conta{
+    position: relative;
+    left: -173px;
+    top: -57px;
+    width: 110px;
+    transform: translate(1777px, 0px);
+    transition: none;
+    background-color: rgb(91, 61, 126);
+    position: relative;
+    left: -173px;
+    top: -57px;
+    width: 201px;
+    transform: translate(1742px, -14px);
+    transition: none;
+    cursor: move;
+    height: 49px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.beleza{
+    width: 148px;
+    position: relative;
+    left: 836px;
+    top: -12px;
+    transition: none;
+    cursor: move;
+    font-size: larger;
+}
